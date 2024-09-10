@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Compile by Denay
-# Youtube : Menembus Batas 911
-# Github  : https://github.com/OmDenay-MB911
+# Compile by ABIZAR
+# Youtube : ABIZAR HACKER
+# Github  : ABIZARFADILAH
 # Note : Maaf gua compile, soalnya gua takut dibilang sombong!!
 #        sombong = dosa, makanya gua compile ^_^
 Sanz=$(mktemp)
